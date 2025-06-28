@@ -13,7 +13,7 @@ simple test for multiple PN532 RFID-readers via I2C multiplexer
 - [RFID KeyFob Evolution NXP MIFARE Classic 1K 4 byte (13,56MHz)](https://www.zutrittsshop.de/de/rfid-transponder/karten-und-tags/keyfob-evolution-mifare-classic-1k.html)
 - [I2C multiplexer (TCA9548A)](https://funduinoshop.com/elektronische-module/schnittstellen-konverter/signalwandler/tca9548a-i2c-multiplexer)
 
-![simple test-setup](<20250604_084520 small.jpg>)
+![simple test-setup](<20250628_140447 small.jpg>)
 
 ### PN532 module
 Size:
